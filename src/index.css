@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.active{
+    background-color: #B1ACA4;
+    border-radius: 15px;
+}
+h2{
+    font-family: "Amatic SC", serif;
+    font-weight: 700;
+}
